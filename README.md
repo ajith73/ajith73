@@ -15,16 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Ajith</h1>
-<h3 align="center">A passionate frontend developer </h3>
+<h3 align="center">A passionate full stack developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajith73&label=Profile%20views&color=0e75b6&style=flat" alt="ajith73" /> </p>
- - 🔭 I’m currently jop searching
 
-- 🌱 I’m currently learning **Framework etc...**
+- 🌱 I’m currently learning **react native etc...**
 
-- 👨‍💻 All of my projects are available at website [http://mypersonalminiwebsite.herokuapp.com/](http://mypersonalminiwebsite.herokuapp.com/)
+- 👨‍💻 All of my projects are available at website [https://myminiportfolio.netlify.app//](https://myminiportfolio.netlify.app/)
 
-- 💬 Ask me about **HTML,Css,Java script**
+- 💬 Ask me about **Java script, React.js, Next.js, Node.js, Express.js**
 
 - 📫 How to reach me **ajith737353@gmail.com**
 
